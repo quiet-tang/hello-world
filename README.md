@@ -1,3 +1,3 @@
 # hello-world
 
-Make and commit changes,On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
+The world is beautiful, the society is dynamic, life is mainly to see their own mentality. I hope my mind will always be good.I will be successed.
